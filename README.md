@@ -1,2 +1,2 @@
-# My first Project for Practicing GitHub
+# My First GitHub Project
  First project for practicing GitHub
